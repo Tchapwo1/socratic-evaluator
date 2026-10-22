@@ -1,0 +1,58 @@
+[
+  {
+    "id": "liberte-01",
+    "notion": "La Liberté",
+    "prompt": "La liberté consiste-t-elle à faire ce que l'on veut ?",
+    "difficulty": "Easy",
+    "methodology_tip": "Attention à bien définir les termes 'Liberté' et 'Volonté' avant de poser votre problématique.",
+    "suggested_notions": ["Le Devoir", "L'Inconscient", "La Loi"]
+  },
+  {
+    "id": "technique-01",
+    "notion": "La Technique",
+    "prompt": "La technique nous rend-elle plus libres ?",
+    "difficulty": "Medium",
+    "methodology_tip": "Évitez le piège du 'pour ou contre'. Analysez comment la technique libère des contraintes naturelles tout en créant de nouvelles dépendances.",
+    "suggested_notions": ["Le Travail", "La Nature", "La Science"]
+  },
+  {
+    "id": "art-01",
+    "notion": "L'Art",
+    "prompt": "L'art change-t-il notre regard sur le monde ?",
+    "difficulty": "Medium",
+    "methodology_tip": "Interrogez l'idée que l'art n'est pas une simple imitation, mais une révélation du réel.",
+    "suggested_notions": ["La Vérité", "La Conscience", "La Perception"]
+  },
+  {
+    "id": "justice-01",
+    "notion": "La Justice",
+    "prompt": "La justice n'est-elle que le droit du plus fort ?",
+    "difficulty": "Hard",
+    "methodology_tip": "Référencez la critique de Calliclès dans le Gorgias de Platon et opposez-y la notion de contrat social.",
+    "suggested_notions": ["L'État", "Le Devoir", "La Morale"]
+  },
+  {
+    "id": "verite-01",
+    "notion": "La Vérité",
+    "prompt": "Peut-on être indifférent à la vérité ?",
+    "difficulty": "Hard",
+    "methodology_tip": "Analysez le désir de vérité comme un besoin vital vs le confort de l'illusion.",
+    "suggested_notions": ["Le Bonheur", "La Science", "La Religion"]
+  },
+  {
+    "id": "travail-01",
+    "notion": "Le Travail",
+    "prompt": "Le travail nous rend-il plus humains ?",
+    "difficulty": "Easy",
+    "methodology_tip": "Pensez à la double nature du travail : aliénation (Hegel/Marx) vs réalisation de soi.",
+    "suggested_notions": ["La Technique", "La Liberté", "La Nature"]
+  },
+  {
+    "id": "bonheur-01",
+    "notion": "Le Bonheur",
+    "prompt": "Le bonheur est-il une affaire privée ?",
+    "difficulty": "Medium",
+    "methodology_tip": "Questionnez la dimension politique du bonheur. Peut-on être heureux seul dans une cité injuste ?",
+    "suggested_notions": ["La Justice", "L'État", "La Morale"]
+  }
+]

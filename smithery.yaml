@@ -1,0 +1,24 @@
+# Smithery.ai Registry Manifest
+# Specification: https://smithery.ai/docs
+name: socratic-evaluator
+displayName: Socratic Reasoning & Moral Philosophy Evaluator
+version: 1.0.0
+description: Autonomous Socratic reasoning and dialectical argumentation skill for AI agents. Features 85 questions across 10 levels, Kantian/utilitarian moral dilemmas, conceptual distinctions, and Hegelian essay outlines.
+repository: https://github.com/Tchapwo1/socratic-evaluator
+author: Tchapwo1
+license: MIT
+tags:
+  - philosophy
+  - socratic-dialogue
+  - dialectic
+  - reasoning-evaluator
+  - ethics-benchmark
+  - kant
+  - sartre
+entrypoint: SKILL.md
+standards:
+  - agentskills.io/v1
+capabilities:
+  - philosophical-dilemma-query
+  - dialectic-outline-synthesis
+  - ethical-reasoning-benchmark
